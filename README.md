@@ -7,6 +7,10 @@ It is able block vpns & proxy(some countrys have problems cause of there interne
 
 Saves data in mysql
 
+Paypal 
+Auto Renew Plans
+1 time plans
+
 Created by Mario 
 
 Used on limitednodes and FalixNodes
